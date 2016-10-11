@@ -1,0 +1,2 @@
+# agreement4dronebird_CMJxLGOV
+NPO法人クライシスマッパーズ・ジャパン/ドローンバードと各地自治体等とのドローン防災協定書関連
