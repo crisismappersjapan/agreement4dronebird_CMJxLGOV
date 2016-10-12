@@ -1,6 +1,8 @@
 # agreement4dronebird_CMJxLGOV
 NPO法人クライシスマッパーズ・ジャパン/ドローンバードと各地自治体等とのドローン防災協定書関連
 
+ * [Markdownテキスト](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/Yamato_city/agreement4dronebird_CMJxYamato_city.md)
+
  * [PDF](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/raw/master/Yamato_city/agreement4dronebird_CMJxYamato_city.pdf)
 
  * [Word .docx](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/raw/master/Yamato_city/agreement4dronebird_CMJxYamato_city.docx)
