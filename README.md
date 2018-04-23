@@ -1,6 +1,10 @@
 # agreement4dronebird_CMJxLGOV
 NPO法人クライシスマッパーズ・ジャパン/ドローンバードと各地自治体等とのドローン防災協定書関連
 
+## 協定エリア
+* [検索クエリ](http://overpass-turbo.eu/s/yar) (Overpass Tourbo API)
+
+## 協定内容
  * [Markdownテキスト](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/Yamato_city/agreement4dronebird_CMJxYamato_city.md)
 
  * [PDF](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/raw/master/Yamato_city/agreement4dronebird_CMJxYamato_city.pdf)
