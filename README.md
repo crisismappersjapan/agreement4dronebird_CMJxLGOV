@@ -4,7 +4,7 @@ NPO法人クライシスマッパーズ・ジャパン/ドローンバードと�
 ## 協定エリア
 * [検索クエリ 201803](http://overpass-turbo.eu/s/yar) (Overpass Tourbo API) / [GeoJSON](https://gist.github.com/mapconcierge/dcce1430dd6025af51d328db9a2f22d0)
 
-* [検索クエリ 201804](http://overpass-turbo.eu/s/yau) (Overpass Tourbo API)
+* [検索クエリ 201804](http://overpass-turbo.eu/s/yav) (Overpass Tourbo API) / [GeoJSON](https://gist.github.com/mapconcierge/378853a877337c816e23e9f2b6f384a4)
 
 ## 協定内容
  * [Markdownテキスト](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/Yamato_city/agreement4dronebird_CMJxYamato_city.md)
