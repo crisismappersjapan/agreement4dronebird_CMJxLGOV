@@ -1,6 +1,8 @@
 # agreement4dronebird_CMJxLGOV
 NPO法人クライシスマッパーズ・ジャパン/ドローンバードと各地自治体等とのドローン防災協定書関連
 
+![cmjxlgov201902onlypolygon](https://user-images.githubusercontent.com/416977/53065185-ebe4d400-350d-11e9-8ab5-af3ac660643c.jpg)
+
 ## 協定締結済み自治体
 * 神奈川県大和市(2016年9月)
 * 埼玉県横瀬町(2017年1月)
