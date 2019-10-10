@@ -6,6 +6,9 @@ NPO法人クライシスマッパーズ・ジャパン/ドローンバードと�
 
 © OpenStreetMap, Mapbox
 
+* <a href="#kyoteidocs">協定文ドキュメントファイル</a>
+
+
 ## 協定締結済み自治体
 * 神奈川県大和市(2016年9月)
 * 埼玉県横瀬町(2017年1月)
@@ -60,7 +63,7 @@ https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/tree/master/d
 
 
 
-## 協定内容
+## <p id="kyoteidocs">協定内容</p>
  * [Markdownテキスト](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/Yamato_city/agreement4dronebird_CMJxYamato_city.md)
 
  * [PDF](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/raw/master/Yamato_city/agreement4dronebird_CMJxYamato_city.pdf)
