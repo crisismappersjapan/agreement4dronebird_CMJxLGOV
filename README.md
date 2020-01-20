@@ -60,7 +60,7 @@ https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/tree/master/d
 
 * [検索クエリ 201904](http://overpass-turbo.eu/s/IPF) (Overpass Tourbo API) / [GeoJSON](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/data/CMJxLGOV201904.geojson)
 
-
+* [検索クエリ 201912](http://overpass-turbo.eu/s/PUF) (Overpass Tourbo API) / [GeoJSON](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/data/CMJxLGOV201912.geojson)
 
 
 
