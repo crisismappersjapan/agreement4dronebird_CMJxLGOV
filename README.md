@@ -73,7 +73,7 @@ https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/tree/master/d
 
 
 ## <p id="kyoteidocs">協定内容</p>
- * [Markdownテキスト](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/Yamato_city/agreement4dronebird_CMJxYamato_city.md)
+ * [Markdownテキスト](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/templete/templete4dronebird.md)
 
  * [PDF](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/raw/master/Yamato_city/agreement4dronebird_CMJxYamato_city.pdf)
 
