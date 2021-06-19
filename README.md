@@ -74,6 +74,9 @@ https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/tree/master/d
 
 * [検索クエリ 201912](http://overpass-turbo.eu/s/PUF) (Overpass Tourbo API) / [GeoJSON](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/data/CMJxLGOV201912.geojson)
 
+* [検索クエリ 202106](http://overpass-turbo.eu/s/18x2) (Overpass Tourbo API) / [GeoJSON](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/data/CMJxLGOV201912.geojson)
+
+
 
 
 ## <p id="kyoteidocs">協定内容</p>
