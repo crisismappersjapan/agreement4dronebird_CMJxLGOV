@@ -80,10 +80,15 @@ https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/tree/master/d
 
 
 ## <p id="kyoteidocs">協定内容</p>
+
+### 越谷市バージョン(2020年) ※ 大和市バージョンに「災害補償等」の項目が追加
+ * [Markdownテキスト](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/Koshigaya_city/proposal.md)
+ * [PDF](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/Koshigaya_city/proposal_v11.pdf)
+ * [Word .docx](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/Koshigaya_city/proposal_v11.docx)
+
+### 大和市バージョン(2015年)
  * [Markdownテキスト](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/templete/templete4dronebird.md)
-
  * [PDF](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/raw/master/Yamato_city/agreement4dronebird_CMJxYamato_city.pdf)
-
  * [Word .docx](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/raw/master/Yamato_city/agreement4dronebird_CMJxYamato_city.docx)
 
 ---
