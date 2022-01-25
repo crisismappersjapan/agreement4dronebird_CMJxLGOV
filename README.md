@@ -78,6 +78,7 @@ https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/tree/master/d
 
 * [検索クエリ 202106](http://overpass-turbo.eu/s/18x2) (Overpass Tourbo API) / [GeoJSON](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/data/CMJxLGOV202106.geojson)
 
+* [検索クエリ 202201](https://overpass-turbo.eu/s/1foa) (Overpass Tourbo API) / [GeoJSON](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/data/CMJxLGOV202201.geojson)
 
 
 
