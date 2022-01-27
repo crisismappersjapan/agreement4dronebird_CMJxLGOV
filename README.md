@@ -1,7 +1,7 @@
 # agreement4dronebird_CMJxLGOV
 NPO法人クライシスマッパーズ・ジャパン/ドローンバードと各地自治体等とのドローン防災協定書関連
 
-![CMJxLGOV202004DB](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/data/CMJxLGOV202106.jpg?raw=true)
+![CMJxLGOV202004DB](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/blob/master/data/CMJxLGOV202201.jpg?raw=true)
 
 © OpenStreetMap, Mapbox
 
