@@ -1,4 +1,4 @@
-# 災害時における無人航空機による協力に関する協定 [docx](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/raw/master/Kanagawa_prefecture/agreement4dronebird_CMJxKanagawaPref.docx), [PDF](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/raw/master/Kanagawa_prefecture/agreement_kanagawamodel.docx.pdf)
+# 災害時における無人航空機による協力に関する協定 [Docx](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/raw/master/Kanagawa_prefecture/agreement4dronebird_CMJxKanagawaPref.docx), [PDF](https://github.com/crisismappersjapan/agreement4dronebird_CMJxLGOV/raw/master/Kanagawa_prefecture/agreement_kanagawamodel.docx.pdf)
 
 神奈川県（以下「甲」という。）とＮＰＯ法人クライシスマッパーズ・ジャパン（以下「乙」という。）は、災害対策基本法（昭和36年法律第223号）第２条第１号に規定する災害に備え、相互の協力体制に関し、次のとおり協定を締結する。
 
